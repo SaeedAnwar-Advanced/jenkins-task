@@ -1,0 +1,16 @@
+C:\Users\saeed.anwar\Desktop\Jenkins-Task\bin\Debug\net5.0\Jenkins-Task.exe
+C:\Users\saeed.anwar\Desktop\Jenkins-Task\bin\Debug\net5.0\Jenkins-Task.deps.json
+C:\Users\saeed.anwar\Desktop\Jenkins-Task\bin\Debug\net5.0\Jenkins-Task.runtimeconfig.json
+C:\Users\saeed.anwar\Desktop\Jenkins-Task\bin\Debug\net5.0\Jenkins-Task.runtimeconfig.dev.json
+C:\Users\saeed.anwar\Desktop\Jenkins-Task\bin\Debug\net5.0\Jenkins-Task.dll
+C:\Users\saeed.anwar\Desktop\Jenkins-Task\bin\Debug\net5.0\ref\Jenkins-Task.dll
+C:\Users\saeed.anwar\Desktop\Jenkins-Task\bin\Debug\net5.0\Jenkins-Task.pdb
+C:\Users\saeed.anwar\Desktop\Jenkins-Task\obj\Debug\net5.0\Jenkins-Task.csprojAssemblyReference.cache
+C:\Users\saeed.anwar\Desktop\Jenkins-Task\obj\Debug\net5.0\Jenkins-Task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\saeed.anwar\Desktop\Jenkins-Task\obj\Debug\net5.0\Jenkins-Task.AssemblyInfoInputs.cache
+C:\Users\saeed.anwar\Desktop\Jenkins-Task\obj\Debug\net5.0\Jenkins-Task.AssemblyInfo.cs
+C:\Users\saeed.anwar\Desktop\Jenkins-Task\obj\Debug\net5.0\Jenkins-Task.csproj.CoreCompileInputs.cache
+C:\Users\saeed.anwar\Desktop\Jenkins-Task\obj\Debug\net5.0\Jenkins-Task.dll
+C:\Users\saeed.anwar\Desktop\Jenkins-Task\obj\Debug\net5.0\ref\Jenkins-Task.dll
+C:\Users\saeed.anwar\Desktop\Jenkins-Task\obj\Debug\net5.0\Jenkins-Task.pdb
+C:\Users\saeed.anwar\Desktop\Jenkins-Task\obj\Debug\net5.0\Jenkins-Task.genruntimeconfig.cache
